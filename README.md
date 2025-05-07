@@ -11,3 +11,5 @@ public void statin main(Strign[] args){
     System.out.println("this is an example of Java main method");
 
 }
+
+Line for testing git diff
