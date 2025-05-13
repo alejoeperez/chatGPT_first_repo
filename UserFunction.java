@@ -6,6 +6,6 @@ public class UserFunction {
         user.setName("Fred");
         user.setAge(28);
 
-        user.toString(user.getId(), user.geName(), user.getAge());
+        System.out.println(user.toString());
     }
 }
