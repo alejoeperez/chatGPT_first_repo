@@ -29,12 +29,9 @@ public class User{
         this.age = age;
     }
 
-    /*This is for toString method including
-     * id, name, age
-     */
     @Override
     public String toString() {
         return "User [id=" + id + ", name=" + name + ", age=" + age + "]";
     }
-    
+
 }
