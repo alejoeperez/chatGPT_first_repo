@@ -1,0 +1,16 @@
+{
+    "commands" :[
+        {
+            "command" : "fecth",
+            "explanation" : "Command for getting last changes from remote without merge in local workspace",
+            "tips" : "",
+            "samples" : [
+                {
+                    "idSample": "git fetch origin develop",
+                    "description": "get the last commit from develop branch, but they are not merged yet into your current local branch"
+                }
+            ]
+        }
+    ]
+    
+}
