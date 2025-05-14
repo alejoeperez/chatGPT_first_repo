@@ -3,7 +3,7 @@
         {
             "command" : "fecth",
             "explanation" : "Command for getting last changes from remote without merge in local workspace",
-            "tips" : "",
+            "tip" : "This tip is an example",
             "samples" : [
                 {
                     "idSample": "git fetch origin develop",
